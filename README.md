@@ -239,4 +239,3 @@ json
 4. Role-based Access Control (Admin vs Customer)
 5. Product Categories & Advanced Search
 6. Docker Deployment
-7. JWT authentication
